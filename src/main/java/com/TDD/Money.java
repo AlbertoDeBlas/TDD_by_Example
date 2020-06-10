@@ -1,3 +1,5 @@
+package com.TDD;
+
 public class Money implements Expression{
     protected int amount;
     protected String currency;
