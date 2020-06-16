@@ -63,14 +63,6 @@
                         </goals>
                     </execution>
                 </executions>
-                <configuration>
-                    <targetClasses>
-                        <param></param>
-                    </targetClasses>
-                    <targetTests>
-                        <param></param>
-                    </targetTests>
-                </configuration>
             </plugin>
         </plugins>
     </build>
